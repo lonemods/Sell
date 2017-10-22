@@ -1,7 +1,7 @@
 name: Sell
 api: [3.0.0-ALPHA9]
 main: SellHand\Main
-version: 3.0
+version: 1.0.0
 author: [Muqsit, JackMD]
 authors: [KairusDarkSeeker, JackMD]
 depend: EconomyAPI
