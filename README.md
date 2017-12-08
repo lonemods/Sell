@@ -3,7 +3,7 @@
 #### An essential plugin for all Faction and Prison based servers.
 ##### How to use?
 - Make sure you have the popular ```EconomyAPI``` plugin by onebone installed.
-- Download the plugin. Phar can be found here: https://github.com/JackMD/Sell/releases).
+- Download the plugin. Phar can be found [here](https://poggit.pmmp.io/ci/JackMD/Sell).
 - Start the server.
 - Stop the server.
 - Go to plugins -> Sell and open the ```sell.yml``` file.
